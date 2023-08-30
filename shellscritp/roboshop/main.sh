@@ -1,1 +1,3 @@
-this is main folder
+#!/bin/bash
+ bash component$1.sh
+ 
